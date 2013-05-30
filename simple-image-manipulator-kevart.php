@@ -68,9 +68,9 @@ if ( ! defined( 'WP_CONTENT_DIR' ) )
       define( 'WP_CONTENT_DIR', ABSPATH . 'wp-content' );
 
 
-define( 'SIMK_DIR', WP_PLUGIN_DIR . '/simple-image-manipulator-kevart' );
+define( 'SIMK_DIR', WP_PLUGIN_DIR . '/simple-image-manipulator' );
 
-define( 'SIMK_URL', WP_PLUGIN_URL . '/simple-image-manipulator-kevart' );
+define( 'SIMK_URL', WP_PLUGIN_URL . '/simple-image-manipulator' );
 
 if (!class_exists("Simple_Image_Manipulator_Kevart")) :
 
